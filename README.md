@@ -1,7 +1,6 @@
 <img width="204" height="192" alt="download" src="https://github.com/user-attachments/assets/c0b25244-2f34-4403-9e35-19f43f707e64" />
 # DevOps
 
-<<<<<<< feature-dados
 Branch 2
 =======
 Biel,   Caio e   BH 
